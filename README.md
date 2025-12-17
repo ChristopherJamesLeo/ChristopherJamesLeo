@@ -13,17 +13,20 @@
 - 🌱 **Continuous learner** dedicated to staying at the forefront of cloud solutions and DevOps-driven development.
 
 ---
+<br/>
 
 #### 🌐 Connect with me:
 <p align="left">
 <a href="linkedin.com/in/aung-aung-oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aung Aung Oo" height="30" width="40" /></a>
 <a href="https://fb.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Aung Aung Oo" height="30" width="40" /></a>
 </p>
+<br/>
 
 #### 🛠 Languages :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,php,py" alt="Language" />
 </p>
+<br/>
 
 #### Frontend :
 <p align="left">
