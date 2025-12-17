@@ -27,7 +27,7 @@
 
 ## Frontend :
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,inertia,vue" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vue" alt="Frontend" />
 </p>
 
 ## Backend :
@@ -42,12 +42,12 @@
 
 ## 🚀 DevOps & Cloud (Practice & Tools)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,do,linux" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" alt="DevOps and Tools" />
 </p>
 
 ## Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" alt="Others" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,canva" alt="Others" />
 </p>
 
 ## 📊 GitHub Stats
