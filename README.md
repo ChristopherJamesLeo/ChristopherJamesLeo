@@ -18,12 +18,19 @@
 
 ## 🛠 Languages and Tools:
 
+### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue" alt="Frontend" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,mysql,mongodb,postgres" alt="Backend & DB" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,figma,postman" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vue" alt="Frontend" />
+</p>
+
+### ⚙️ Backend Development & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,postgres,py,fastapi" alt="Backend" />
+</p>
+
+### 🚀 DevOps & Cloud (Practice & Tools)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,figma,postman" alt="DevOps and Tools" />
 </p>
 
 ---
