@@ -1,7 +1,7 @@
-# Hi 👋, I'm Aung Aung Oo
+# Hi 👋, I'm Aung Aung Oo ( James )
 ### A passionate Full Stack Developer from Dubai
 
-- 🔭 I’m currently working on **AR wallet**
+- 🔭 I’m currently working on **TB International Software Company(DMCC,Dubai)**
 - 🌱 I’m currently learning **ReactNative, FastAPI, Docker and Kubernetes**
 - 📫 How to reach me: [aungaungoo.hotmail@gmail.com](mailto:aungaungoo.hotmail@gmail.com)
 - 🚀 **Full Stack Developer** with a proven track record of delivering high-quality, scalable web applications.
