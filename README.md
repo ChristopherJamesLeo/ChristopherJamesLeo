@@ -16,26 +16,40 @@
 
 ---
 
-## 🛠 Languages and Tools:
-
-### 🌐 Frontend Development
+## 🛠 Languages :
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vue" alt="Frontend" />
-</p>
-<br/>
-<hr/>
-
-### ⚙️ Backend Development & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,postgres,py,fastapi" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=javascript,php,py" alt="Language" />
 </p>
 
 <br/>
-<hr/>
+### Frontend :
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,inertia,vue" alt="Frontend" />
+</p>
+<br/>
+
+### Backend :
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,fastapi" alt="Backend" />
+</p>
+<br/>
+
+### Databases :
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Backend" />
+</p>
+
+<br/>
+
 
 ### 🚀 DevOps & Cloud (Practice & Tools)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,figma,postman" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,do,linux" alt="DevOps and Tools" />
+</p>
+
+### Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" alt="Others" />
 </p>
 
 ---
