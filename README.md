@@ -22,11 +22,16 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vue" alt="Frontend" />
 </p>
+<br/>
+<hr/>
 
 ### ⚙️ Backend Development & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,postgres,py,fastapi" alt="Backend" />
 </p>
+
+<br/>
+<hr/>
 
 ### 🚀 DevOps & Cloud (Practice & Tools)
 <p align="left">
