@@ -29,26 +29,31 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vue" alt="Frontend" />
 </p>
+<br/>
 
 #### Backend :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,fastapi" alt="Backend" />
 </p>
+<br/>
 
 #### Databases :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Backend" />
 </p>
+<br/>
 
 #### 🚀 DevOps & Cloud (Practice & Tools)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" alt="DevOps and Tools" />
 </p>
+<br/>
 
 #### Others
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,canva" alt="Others" />
 </p>
+<br/>
 
 #### 📊 GitHub Stats
 <p align="left">
