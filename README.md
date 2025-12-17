@@ -3,8 +3,14 @@
 
 - 🔭 I’m currently working on **AR wallet**
 - 🌱 I’m currently learning **ReactNative, FastAPI, Docker and Kubernetes**
-- 💬 Ask me about **ReactJs, Laravel, and MySQL**
 - 📫 How to reach me: [aungaungoo.hotmail@gmail.com](mailto:aungaungoo.hotmail@gmail.com)
+- 🚀 **Full Stack Developer** with a proven track record of delivering high-quality, scalable web applications.
+- 💻 **Expertise in React.js & Redux** for building dynamic, responsive, and user-centric frontend interfaces.
+- ⚙️ **Specialized in Laravel & MySQL** to develop robust, high-performance, and secure backend systems.
+- 🐳 **Practical experience with Docker**, containerizing applications to ensure consistency across environments.
+- ☸️ **Actively applying Kubernetes** for orchestration, focusing on deployment efficiency and system scalability.
+- 🛠️ **Strong advocate for clean code** and modern architectural patterns to solve complex business requirements.
+- 🌱 **Continuous learner** dedicated to staying at the forefront of cloud solutions and DevOps-driven development.
 
 ---
 
