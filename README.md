@@ -12,11 +12,9 @@
 - 🛠️ **Strong advocate for clean code** and modern architectural patterns to solve complex business requirements.
 - 🌱 **Continuous learner** dedicated to staying at the forefront of cloud solutions and DevOps-driven development.
 
----
 <br/>
 
 ## 🌐 Connect with me:
--
 <p align="left">
   <a href="mailto:aungaungoo.hotmail@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/aung-aung-oo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
