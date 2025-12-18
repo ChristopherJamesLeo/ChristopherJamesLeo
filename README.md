@@ -16,7 +16,7 @@
 <br/>
 
 ## 🌐 Connect with me:
----
+-
 <p align="left">
   <a href="mailto:aungaungoo.hotmail@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/aung-aung-oo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -26,49 +26,49 @@
 <br/>
 
 #### 🛠 Languages :
----
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,php,py" alt="Language" />
 </p>
 <br/>
 
 #### Frontend :
----
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vue" alt="Frontend" />
 </p>
 <br/>
 
 #### Backend :
----
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,fastapi" alt="Backend" />
 </p>
 <br/>
 
 #### Databases :
----
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Backend" />
 </p>
 <br/>
 
 #### 🚀 DevOps & Cloud (Practice & Tools)
----
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" alt="DevOps and Tools" />
 </p>
 <br/>
 
 #### Others
----
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,canva" alt="Others" />
 </p>
 <br/>
 
 #### 📊 GitHub Stats
----
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ChristopherJamesLeo&show_icons=true&theme=dark&hide_border=true" alt="Aung Aung Oo Stats" />
 </p>
