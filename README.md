@@ -34,7 +34,7 @@
 #### 🛠 Languages :
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,php,py" alt="Language" />
+  <img src="https://skillicons.dev/icons?i=javascript,php,py,go" alt="Language" />
 </p>
 <br/>
 
